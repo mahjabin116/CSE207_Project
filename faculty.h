@@ -1,7 +1,7 @@
 #ifndef FACULTY_H
 #define FACULTY_H
 enum designation{
-    LECTURER,
+    LECTURER = 1,
     SENIOR_LECTURER,
     ASSISTANT_PROFESSOR,
     ASSOCIATE_PROFESSOR,
